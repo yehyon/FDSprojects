@@ -26,8 +26,8 @@
 
 
 
-|Pattern|Meaning|Described in section|First defined in CSS level
-|---|---|---|
+|Pattern|Meaning|Described in section|First defined in CSS level|
+|-------|-------|--------------------|--------------------------|
 |*|any element|Universal selector|2
 |E|an element of type E|Type selector|1
 |E[foo]|an E element with a "foo" attribute|Attribute selectors|2
