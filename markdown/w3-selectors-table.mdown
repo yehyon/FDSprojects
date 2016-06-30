@@ -26,7 +26,7 @@ E:active|an E element during certain user actions|The user action pseudo-classes
 E:target|an E element beign the target of the referring URI|The target pseudo-class|3
 E:lang(fr)|an element of type E in language "fr" (the document language specifies how language is determined)|The :lang() pseudo-class|2
 E:enabled|a user interface element E which is enabled or disabled|The UI element states pseudo-classes|3
-E:checked|a user interface element E which is checked(for instance a radio-button or checkbox)The UI element states pseudo-classes|3
+E:checked|a user interface element E which is checked(for instance a radio-button or checkbox)|The UI element states pseudo-classes|3
 E::first-line|the first formatted line of an E element|The ::first-line pseudo-element|1
 E::first-letter|the first formatted letter of an E element|The ::first-letter pseudo-element|1
 E::before|generated content before an E element|The ::before pseudo-element|2
